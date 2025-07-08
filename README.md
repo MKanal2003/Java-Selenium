@@ -1,18 +1,36 @@
-## Getting Started
+# 🚗 Selenium Automation Testing - Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Project Overview
 
-## Folder Structure
+This is a basic **Selenium WebDriver** automation project in **Java** that automates interaction with [automationtesting.co.uk](https://www.automationtesting.co.uk/). The script performs a sequence of UI operations such as:
 
-The workspace contains two folders by default, where:
+- Handling **accordions**, **alerts**, **buttons**
+- Filling and submitting the **Contact Us form**
+- Working with **dropdowns**, **checkboxes**, and **radio buttons**
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🧰 Technologies Used
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Java**
+- **Selenium WebDriver**
+- **ChromeDriver**
+- **JUnit / TestNG** *(can be added later)*
+- **Maven or Manual Compilation**
+- **Basic POM structure (can be modularized later)*
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+- Java JDK 8 or later
+- Google Chrome installed
+- ChromeDriver (compatible with Chrome version)
+- IDE like IntelliJ IDEA or Eclipse
+
+
+
